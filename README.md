@@ -1,14 +1,24 @@
 
-###
+<samp><b>illegalMercy@github:~$</b> Hey, net wanderer!
+<br>
+<b>illegalMercy@github:~$</b> Take a load off and chill for a minute
+</samp>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<div><pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<samp><b>illegalMercy@github</b></samp>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⣄⠀⢀⣾⢻⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-----------------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣷⣿⡇⢸⣷⠀            <samp><b>Language:</b> Python</samp>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣾⣷⣸⣿⣦            <samp><b>Development:</b> Telegram Bots / GUI Apps</samp>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣷⣋⣩⣽⢿⣿⣿⡿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⡆⠀⠀⢶⠿⠟⠛⠉⠉⠉⠛⢿⡿⣇⣼⡿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣼⣷⡀⠀⠈⠓⠒⠒⠢⣄⠀⠀⠈⣿⢿⣿⣷⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⣟⣿⢷⡀⠀⠀⠀⠀⠀⢸⡇⠀⢀⣿⣻⢟⡿⣦⣾⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⣿⣿⣿⢿⣦⣄⡀⠀⠀⠜⣀⣤⡞⠋⣡⣾⣻⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢻⣿⣿⣾⣿⣿⣿⣶⣦⣤⣬⣭⣭⣭⡟⠙⣿⣻⡿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠻⣿⣿⣿⣏⣿⣿⣽⣷⢿⣿⡿⣿⣷⣶⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣷⣿⣿⣿⣡⣿⣯⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-<h1 align="center">illegalMercy!</h1>
+</pre></div>
+<samp><b>illegalMercy@github:~$</b> ▯</samp>
 
-###
-
-<div align="center">
-  <a href="https://t.me/illegalMercy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
