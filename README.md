@@ -19,5 +19,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 </pre></div>
-<samp><b>illegalMercy@github:&tilde;$</b> ▯</samp>
 
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&duration=6000&pause=1000&color=F7F7F7&width=435&height=20&lines=I+hope+you+find+what+you%E2%80%99re+looking+for" alt="Typing SVG" /></a>
+</div>
