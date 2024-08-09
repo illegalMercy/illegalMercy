@@ -1,9 +1,8 @@
-
-<samp><b>illegalMercy@github:~$</b> Hey, net wanderer!
+<samp><b>illegalMercy@github:&tilde;$</b> Hey, net wanderer!
 <br>
-<b>illegalMercy@github:~$</b> Take a load off and chill for a minute
+<b>illegalMercy@github:&tilde;$</b> Take a load off and chill for a minute
 </samp>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <div><pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<samp><b>illegalMercy@github</b></samp>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⣄⠀⢀⣾⢻⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-----------------
@@ -20,5 +19,5 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠻⠿⠿⠿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 </pre></div>
-<samp><b>illegalMercy@github:~$</b> ▯</samp>
+<samp><b>illegalMercy@github:&tilde;$</b> ▯</samp>
 
